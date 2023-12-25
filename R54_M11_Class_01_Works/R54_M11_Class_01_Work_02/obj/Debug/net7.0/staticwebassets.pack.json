@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\5ijzbz3s.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\5ijzbz3s.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\cp4lhizb.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\cp4lhizb.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\d0wv4uso.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\d0wv4uso.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\geulnf4d.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\geulnf4d.jpeg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\ixwx4usp.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ixwx4usp.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\ml3kzohu.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ml3kzohu.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\riklispr.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\riklispr.jpg"
+    },
+    {
+      "Id": "D:\\M11 Angular\\Class-1.6\\R54_M11_Class_01_Works\\R54_M11_Class_01_Work_02\\wwwroot\\Pictures\\snlkonkc.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\snlkonkc.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.R54_M11_Class_01_Work_02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.R54_M11_Class_01_Work_02.props",
+      "PackagePath": "build\\R54_M11_Class_01_Work_02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.R54_M11_Class_01_Work_02.props",
+      "PackagePath": "buildMultiTargeting\\R54_M11_Class_01_Work_02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.R54_M11_Class_01_Work_02.props",
+      "PackagePath": "buildTransitive\\R54_M11_Class_01_Work_02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
